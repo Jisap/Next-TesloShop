@@ -41,4 +41,11 @@ yarn-error.log*
 
 # .locks files
 yarn.lock
+<<<<<<< HEAD
 package-lock.json
+=======
+
+package-lock.json
+
+
+>>>>>>> 3d52fcd2f70cd23ff3c74bcd60c5ec2ec9d7090a
